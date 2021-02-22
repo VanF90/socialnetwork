@@ -1,0 +1,30 @@
+.content {
+    background-color: bisque;
+}
+
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+.dialogsItems {
+    padding: 10px;
+    color: whitesmoke;
+}
+
+.dialogsItems .active {
+    color: darkgoldenrod;
+}
+
+.messages {
+
+    padding: 10px;
+
+}
+
+.messages .message {
+
+    color: whitesmoke;
+
+}
